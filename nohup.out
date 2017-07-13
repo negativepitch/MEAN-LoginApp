@@ -1,0 +1,5 @@
+
+> loginapp@1.0.0 start /opt/loginapp
+> node app
+
+Server started on port 3000
